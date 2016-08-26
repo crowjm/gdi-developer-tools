@@ -4,7 +4,8 @@ Slides and course materials for GDI Burlington’s Developer Tools workshop. Dev
 
 This course is meant to be taught as a one-night, 2.5 hour session. It is highly recommended that students have prior knowledge of HTML, CSS, and Javascript, as knowldege of them are assumed.
 
-Slides and materials are hosted at [http://gdibtv.github.io/gdi-developer-tools/](http://gdibtv.github.io/gdi-developer-tools/).
+Original slides and materials are hosted at [http://gdibtv.github.io/gdi-developer-tools/](http://gdibtv.github.io/gdi-developer-tools/).
+GDIATX slides are hosted at [http://crowjm.github.io/gdi-developer-tools/](http://crowjm.github.io/gdi-developer-tools/).
 
 ## Content
 
